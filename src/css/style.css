@@ -1,0 +1,67 @@
+/* css = Cascaging Stylesheet */
+
+/* Anatomia do css */
+
+/*
+
+seletor {
+    propriedade: valor;
+}
+
+*/
+
+body {
+    background-color: blueviolet;
+}
+
+main{
+
+}
+.sidebarMenuNavegacao{}
+.sidebarMenuNavegacao > img{}
+
+.menuNavegacao{}
+.listaLinks{}
+.listaLinks > li{}
+.listaLinks > li > a{}
+.listaLinks > a > img{}
+
+.secaoMusica{}
+.cabecalho{}
+
+.user{}
+.user > img{}
+.user > h2{}
+
+.qtdMusicas{}
+.qtdMusicas > p{}
+
+.areaListaMusicas{}
+#btnPause{}
+
+.cabecalhoInfoMusicas{}
+.cabecalhoInfoMusicas > p{}
+
+.listaMusicas{}
+.listaMusicas > li{}
+.listaMusicas > li > p{}
+
+.areaPlayer{}
+
+.infoMusicaAtual{}
+
+.imagemAlbum{}
+.imagemAlbum > img{}
+.imagemAlbum > figcaption{}
+
+.infoMusicaAtual > h2{}
+.infoMusicaAtual > p {}
+
+.areaPlayerControles{}
+.areaPlayerControles > button{}
+
+#btnbtnControlePrev{}
+#btnbtnControlePlay{}
+#btnbtnControleNext{}
+
+.areaPlayerVolume{}
